@@ -1,0 +1,13 @@
+setuptools
+pandas
+numpy
+matplotlib
+jupyter
+seaborn
+pweave
+sphinx
+phonopy
+euphonic
+openpyxl
+ipywidgets
+numba
