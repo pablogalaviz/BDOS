@@ -1,4 +1,4 @@
-# Phono density processing tools. 
+# Phonon density processing tools. 
 
 
 ## Getting Started
